@@ -1,6 +1,6 @@
 # GitHub Action for Rust and MUSL
 
-Action provides an environment with stable Rust 1.50, MUSL and x86_64-unknown-linux-musl target.
+Action provides an environment with stable Rust 1.60, MUSL and x86_64-unknown-linux-musl target.
 
 ## Usage
 
